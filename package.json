@@ -1,0 +1,13 @@
+{
+  "name": "html-quarter",
+  "version": "0.0.0",
+  "author": "Gui Prá (super.driver.512@gmail.com)",
+  "license": "AGPL-3.0+",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "bulma": "^0.7.1"
+  }
+}
